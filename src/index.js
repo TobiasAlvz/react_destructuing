@@ -4,7 +4,6 @@ import cars from './cars';
 const [honda, tesla] = cars; 
 
 ReactDOM.render (
-    
   <table>
     <thead>
       <tr>
