@@ -6,5 +6,6 @@ console.log (cat);
 
 const {name: a, sound} = cat;
 
+
 console.log (a);
  
