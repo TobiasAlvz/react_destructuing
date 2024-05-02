@@ -6,6 +6,7 @@ const [honda, tesla] = cars;
 ReactDOM.render (
   <table>
     <thead>
+    
       <tr>
         <th>Modelo</th>
         <th>Cor</th>
